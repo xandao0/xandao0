@@ -1,16 +1,26 @@
-### Hi there 👋
+## Oi, eu sou o Xandao
 
-<!--
-**xandao0/xandao0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
 
-Here are some ideas to get you started:
+- 😎 Cursando Ciências da Computação na Universidade Estadual de São Paulo
+- 🌱 Atualmente apredendo Javascript
+- 💬 Gosto de falar sobre desenvolvimento web 
+- ⚡ Fato divertido: Gosto muito de cachorro salsicha
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href = 'https://github.com/xandao0'>
+  <img height = '180em' src = 'https://github-readme-stats.vercel.app/api?username=thaisavieira&theme=gotham&show_icons=true'>
+  <img height = '130em' src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=thaisavieira&theme=gotham&show_icons=true&layout=compact'>
+</div>
+  
+<div style="display: grid;">
+  <img width="60" height="40" alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img width="60" height="40" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img width="60" height="40" alt="AdonisJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  <img width="60" height="40" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
+  
+  Contato 
+  
+  <a href="https://www.linkedin.com/in/alexandre-dos-anjos-de-souza-a31b5b216/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  
