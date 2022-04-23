@@ -7,7 +7,10 @@
 - 💬 Gosto de falar sobre desenvolvimento web 
 - ⚡ Fato divertido: Gosto muito de cachorro salsicha
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xandao0&theme=aura_dark&layout=compact&custom_title=Linguagens%20Mais%20Usadas)](https://github.com/xandao0)
+<div>
+<a href="https://github.com/xandao0">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandao0&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
 <div style="display: grid;">
   <img width="60" height="40" alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
