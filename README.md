@@ -12,6 +12,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandao0&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+  
 <div style="display: grid;">
   <img width="60" height="40" alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img width="60" height="40" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
