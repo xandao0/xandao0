@@ -2,10 +2,9 @@
 
 ### Sobre mim
 
-- 😎 Cursando Ciências da Computação na Universidade Estadual de São Paulo
-- 🌱 Atualmente apredendo Javascript
-- 💬 Gosto de falar sobre desenvolvimento web 
-- ⚡ Fato divertido: Gosto muito de cachorro salsicha
+- 😎 Formado em Ciências da Computação na Universidade Estadual de São Paulo
+- 🌱 Atualmente me aprofundando em POO
+- 💬 Gosto de falar sobre desenvolvimento de jogos 
 
 <div>
 <a href="https://github.com/xandao0">
